@@ -3,7 +3,6 @@
 
 # Tools
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   
 # Tech skills
   - SQL
