@@ -19,8 +19,8 @@
 # Books
   - Zawód tester - R.Smilgin
   - Podróż przez świat testowania - K.Pawłowska, N. Pawlak
-  
   - Certyfikowany tester ISTQB. Poziom podstawowy - A. Roman, L. Strapp
+  
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
