@@ -26,17 +26,18 @@
   - Testowanie oprogramowania
   - #Mamo pracuj w IT
   
-# Recommended blogs
+# Recommended blogs and YT channels
+  - [SDET- QA Automation Techie](https://www.youtube.com/c/pavanoltraining)
   - testerzy.pl
   - testuj.pl - Test, Bugs & Rock'n'Roll
   - remigiuszbednarczyk.pl
   - pwicherski.gitbook.io
   
 # My test case examples
-  - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
+  - [Test cases for site allegro.pl](https://drive.google.com/file/d/1Ls17HmWSXGp7i2Saux0U7VBzva8uITGk/view?usp=sharing)
   
 # My bug reports
-  - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
+  - [Bugs reported for pgatoursuperstore.com site](https://drive.google.com/file/d/1ItlEhNylT6xPT88JxuPbq5JIKTOs14n7/view?usp=sharing)
 
  
       
