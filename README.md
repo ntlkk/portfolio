@@ -1,8 +1,10 @@
 # Portfolio
 # About me
+My name is Natalia Kluz. Half a year ago I have started to interest and study of software testing. My goal is to develop testing knowledge and technical skills.
 
 # Tools
   - [Postman](https://www.postman.com/) - Testing tool for REST API
+  - pgAdmin
   
 # Tech skills
   - SQL
