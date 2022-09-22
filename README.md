@@ -42,5 +42,4 @@ My name is Natalia Kluz. Half a year ago I have started to interest and study of
   - [Bugs reported for pgatoursuperstore.com site](https://drive.google.com/file/d/1ItlEhNylT6xPT88JxuPbq5JIKTOs14n7/view?usp=sharing)
 
  
-      
-
+# About me
