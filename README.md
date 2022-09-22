@@ -21,7 +21,7 @@ My name is Natalia Kluz. Half a year ago I have started to interest and study of
 # Books
   - Zawód tester - R.Smilgin
   - Podróż przez świat testowania - K.Pawłowska, N. Pawlak
-  - Certyfikowany tester ISTQB. Poziom podstawowy - A. Roman, L. Strapp
+  - Certyfikowany tester ISTQB. Poziom podstawowy - A. Roman, L. Stapp
   
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
