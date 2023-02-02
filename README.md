@@ -1,15 +1,22 @@
 # Portfolio
 # About me
-My name is Natalia Kluz. Half a year ago I have started to interest and study of software testing. My goal is to develop testing knowledge and technical skills.
+My name is Natalia Kluz. Almost year ago I have started to interest and study of software testing. My goal is to develop testing knowledge and technical skills and finally - become an automation tester.
 
 # Tools
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - pgAdmin
+  - Jira
+  - Git
   
 # Tech skills
   - SQL
   - Creating test cases
   - Reporting bugs
+  - Reading documentation
+  - Creating application instructions
+  
+# Certyficates
+  - ISTQB Certified Tester Foundation Level - No19532/CTFL/2023 
 
 # Courses
   - Basics of manual software testing (including JIRA basics) [PL] - udemy.com
